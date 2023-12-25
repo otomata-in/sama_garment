@@ -1,0 +1,974 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202309 will be lost/reset.
+# Last config file used to build this data file was /home/e1pz8n1wznlx/tmp/awstats/ssl/awstats.sama-garments.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2705                
+POS_VISITOR 26882               
+POS_DAY 31732               
+POS_DOMAIN 3515                
+POS_LOGIN 3951                
+POS_ROBOT 4106                
+POS_WORMS 4568                
+POS_EMAILSENDER 4699                
+POS_EMAILRECEIVER 4842                
+POS_SESSION 32005               
+POS_SIDER 32211               
+POS_FILETYPES 4977                
+POS_DOWNLOADS 5345                
+POS_OS 5393                
+POS_BROWSER 5656                
+POS_SCREENSIZE 6662                
+POS_UNKNOWNREFERER 6736                
+POS_UNKNOWNREFERERBROWSER 7596                
+POS_ORIGIN 8275                
+POS_SEREFERRALS 8417                
+POS_PAGEREFS 8597                
+POS_SEARCHWORDS 9185                
+POS_KEYWORDS 9337                
+POS_MISC 2368                
+POS_ERRORS 9396                
+POS_CLUSTER 3807                
+POS_SIDER_404 9552                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230916033430 265 71896 25655108703785
+FirstTime 20230909053457
+LastTime 20230916033430
+LastUpdate 20230916051340 265 0 265 0 0
+TotalVisits 133                 
+TotalUnique 111                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 123                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 82 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 118 6221016 101 128 864075
+1 26 109 10479623 7 62 507729
+2 49 380 41729309 4 30 810637
+3 17 99 6195518 6 30 166063
+4 18 127 11126035 12 33 158764
+5 6 6 33489 2 4 44030
+6 5 5 24338 145 147 926691
+7 14 146 11463333 23 34 177214
+8 15 26 4226600 2 12 74981
+9 36 194 17165453 216 227 7964811
+10 3 48 5535124 4 5 66178
+11 37 304 26024177 63 99 278382
+12 50 221 13099028 38 81 227236
+13 9 54 5567101 10 14 1474620
+14 7 7 185545 16 23 239790
+15 2 2 1942 109 114 2612656
+16 1 1 971 2 2 9517
+17 1 1 7273 1 1 5317
+18 3 3 58136 6 7 672339
+19 4 4 27404 1 2 19198
+20 23 209 10651973 5 9 188911
+21 18 94 10231500 21 24 330659
+22 46 207 16251605 44 952 2316992
+23 35 104 5732676 63 866 3341822
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+in 143 830 70364887
+us 98 563 50741946
+ae 86 725 61281604
+gb 79 254 13276972
+fr 8 8 292760
+pl 7 7 71308
+ca 7 7 201786
+de 7 17 176833
+cn 5 5 36353
+ir 3 47 5516913
+se 2 2 14846
+be 1 1 7571
+hk 1 1 7317
+vn 1 1 40756
+it 1 1 7317
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 101 548495 20230914014044 3
+bingbot/ 88 903385 20230915202748 4
+crawl 6 22304 20230913145325 1
+unknown 4 96 20230915012209 4
+AhrefsBot/ 2 14554 20230914110610 0
+Googlebot\-Image/ 2 180302 20230911143113 0
+SemrushBot/ 2 14554 20230914111146 0
+bingpreview 1 537054 20230911021222 0
+no_user_agent 1 42270 20230915103734 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+jpeg 216 6820790 0 0
+js 564 4154647 0 0
+woff2 2 154330 0 0
+woff 34 321808 0 0
+html 241 2555131 0 0
+jpg 196 135067064 0 0
+env 9 8739 0 0
+Unknown 106 355252 0 0
+gif 42 6976498 0 0
+map 5 88135 0 0
+css 489 1947564 0 0
+xml 2 2464 0 0
+ttf 42 3742275 0 0
+php 8 48058 0 0
+png 496 39593921 0 0
+svg 17 202493 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx9 2 1
+winxp 4 3
+Unknown 32 32
+macosx15 9 8
+linuxubuntu 8 8
+linux 225 44
+win8.1 5 0
+win7 10 7
+ios_iphone 953 102
+win8 2 0
+androidnougat 1 1
+android10 160 18
+androidlollipop 1 1
+win10 1057 224
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 48
+chrome23.0.1271.95 1 0
+chrome63.0.3239.132 1 1
+firefox66.0 1 1
+chrome117.0.5938.62 61 7
+firefox114.0 1 1
+chrome60.0.3112.107 1 1
+mozilla 11 11
+msie11 2 0
+chrome116.0.0.0 777 179
+chrome79.0.3945.88 1 0
+chrome112.0.0.0 1 1
+safari7.0.3 1 0
+chrome78.0.3904.108 8 8
+chrome117.0.0.0 65 8
+Unknown 20 20
+msie10.0 3 0
+netscape5.0 3 3
+firefox36.0 2 0
+chrome74.0.3729.169 1 1
+chrome88.0.4324.104 1 1
+safari16.1 227 14
+safari16.6 380 31
+chrome116.0.5845.187 47 3
+msie6.0 2 2
+chrome105.0.0.0 1 1
+safari13.0.3 134 44
+chrome73.0.3683.90 1 1
+chrome63.0.3239.108 1 1
+chrome61.0.3163.100 1 1
+chrome85.0.4183.121 1 1
+chrome99.0.4844.51 1 0
+firefox115.0 7 7
+safari16.4 82 4
+chrome37.0.2049.0 1 0
+chrome114.0.0.0 31 7
+chrome116.0.5845.179 62 7
+chrome108.0.0.0 6 6
+safari15.4 130 9
+chrome113.0.0.0 370 47
+chrome68.0.3440.106 1 1
+chrome91.0.4472.114 2 2
+firefox83.0 4 4
+firefox77.0 1 1
+chrome16.0.912.63 1 1
+firefox40.1 6 6
+chrome83.0.4103.97 4 4
+opera12.16 2 0
+firefox54.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+WordPress/6.3.1;_https://sama-garments.com 20230909214246
+Outlook/16.0_(16.0.4900.1000;_MSI;_x64) 20230911110709
+WhatsApp/2.23.15.81_A 20230915223823
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230916033430
+WhatsApp/2.2334.2_W 20230914121902
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230915144950
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230916015641
+python-requests/2.31.0 20230914163557
+Mozilla/5.0_(compatible) 20230915042948
+Mozilla/5.0_zgrab/0.x 20230911040557
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230916033430
+WhatsApp/2.23.15.81_A 20230915223823
+Microsoft_Office/16.0_(Windows_NT_10.0;_Microsoft_Outlook_16.0.4849;_Pro) 20230911110709
+WhatsApp/2.2334.2_W 20230914121902
+WordPress/6.3.1;_https://sama-garments.com 20230909214246
+Outlook/16.0_(16.0.4900.1000;_MSI;_x64) 20230911110709
+python-requests/2.31.0 20230914163557
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 233 259
+From1 2 2
+From2 3 4
+From3 10 119
+From4 201 2085
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 2 2
+www_bing_com 1 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://cpanel.sama-garments.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://mail.sama-garments.com/assets/css/style.css 2 4
+https://mail.sama-garments.com/assets/fonts/flaticon/font/flaticon.css 2 2
+https://mail.sama-garments.com 0 87
+https://cpanel.sama-garments.com 0 6
+https://cpanel.sama-garments.com/cPanel_magic_revision_1665094974/unprotected/cpanel/style_v2_optimized.css 0 14
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 9 1369
+404 2303 6890634
+401 2 104
+500 97 6112340
+403 192 7825152
+301 7 1669
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 460
+/qa/.git/config 2 -
+/backup 1 https://sama-garments.com/backup/
+/usr/local/etc/aws/credentials.yml 1 -
+/bitnami/app/config/secrets.yml 1 -
+/config/google-credentials.json 1 -
+/wp-admin/user/moon.php 1 -
+/events../.git/config 2 -
+/demo/.git/config 2 -
+/assets/css/magnific-popup.css 33 https://sama-garments.com/
+/classsmtps.php 1 -
+/wp-includes/IXR/moon.php 1 -
+/wp-includes/blocks/moon.php 1 -
+/public_html/assets/images/adv/4.png 1 -
+/wp-includes/rest-api/moon.php 1 -
+/new/.git/config 2 -
+/test/config/secrets.yml 1 -
+/aws/secrets/aws.json 1 -
+/fw.php 1 -
+/assets/images/our-services/Restaurant.jpeg 34 https://sama-garments.com/
+/simple.php 2 -
+/themes.php 1 -
+/config/aws/secrets.json 1 -
+/apple-touch-icon-precomposed.png 2 -
+/wordpress/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/api/user/v4/.git/config 2 -
+/assets/images/our-services/Security.png 34 https://sama-garments.com/
+/wp-content/uploads/moon.php 1 -
+/site/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/sito/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/assets/js/modernizr-2.6.2.min.js 32 https://sama-garments.com/
+/public_html/assets/css/custom.css 6 https://sama-garments.com/
+/config/aws/aws_credentials.csv 1 -
+/assets../.git/config 2 -
+/aws/credentials.json 1 -
+/wp-admin/css/moon.php 1 -
+/aws/secrets/aws-credentials.yaml 1 -
+/wp-atom.php 1 -
+/wp-includes/SimplePie/moon.php 1 -
+/install.php 1 -
+//2019/wp-includes/wlwmanifest.xml 4 -
+/admin.php 1 -
+/assets/images/adv/4.png 35 https://sama-garments.com/
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/catalog-sorting.css 4 -
+/wp-includes/compat/embed/theme/index.php 1 www.google.com
+/build/.git/config 2 -
+/assets/images/logo.png 35 https://sama-garments.com/
+/.aws/credentials.ini 1 -
+/aws/config/secrets/aws-credentials.ini 1 -
+//wordpress/wp-includes/wlwmanifest.xml 4 -
+/wp 1 https://sama-garments.com/wp/
+/aws/credentials/aws-credentials.json 1 -
+/database/.git/config 2 -
+/2018/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/alfanew.php7 1 -
+/var/private/config.ini 1 -
+/assets/css/flexslider.css 33 https://sama-garments.com/
+//wp2/wp-includes/wlwmanifest.xml 4 -
+/wp/xmlrpc.php 4 -
+/jenkins/secrets/whitelisted-callables.d 1 -
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/all-reviews.css 4 -
+/wp-includes/moon.php 1 -
+/api/user/v1/.git/config 2 -
+/ads.txt 1 http://sama-garments.com/ads.txt
+/.azure/credentials.json 1 -
+/static../.git/config 2 -
+/images/moon.php 1 -
+/wp-content/themes/moon.php 1 -
+/dev/.git/config 2 -
+//wp/wp-includes/wlwmanifest.xml 4 -
+/public_html/assets/css/owl.carousel.min.css 6 https://sama-garments.com/
+/wordpress/xmlrpc.php 4 -
+/assets/css/owl.carousel.min.css 33 https://sama-garments.com/
+//cms/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/network/moon.php 1 -
+/assets/images/about/tailoring.jpeg 34 https://sama-garments.com/
+/wp-admin/maint/moon.php 1 -
+/developer/.git/config 2 -
+/content.php 1 -
+/cms/.git/config 2 -
+/public_html/assets/css/magnific-popup.css 6 https://sama-garments.com/
+/aws/credentials/db.ini 1 -
+/register 1 -
+/v2/.git/config 2 -
+/wp-includes/images/moon.php 1 -
+/api/admin/v2/.git/config 2 -
+/assets/images/adv/2.png 34 https://sama-garments.com/
+/public_html/assets/js/owl.carousel.min.js 6 https://sama-garments.com/
+/public_html/assets/css/style.css 6 https://sama-garments.com/
+/config/secrets/aws-secrets.json 1 -
+/old-cuburn/.git/config 2 -
+/etc/aws-config/aws_credentials.conf 1 -
+/wp-includes/ID3/moon.php 1 -
+//sito/wp-includes/wlwmanifest.xml 4 -
+/lock360.php 1 -
+/wp-content/upgrade/moon.php 1 -
+/usr/local/etc/config.json 1 -
+/etc/aws/secrets/aws_secrets.ini 1 -
+/wp-admin/css/colors/midnight/moon.php 1 -
+/wso.php 1 -
+/wp-includes/style-engine/moon.php 1 -
+/assets/js/jquery.min.js 32 https://sama-garments.com/
+/api/admin/v1/.git/config 2 -
+/assets/images/our-services/Corporate.jpeg 34 https://sama-garments.com/
+/xmlrpc.php 4 -
+/assets/images/our-services/school.jpeg 34 https://sama-garments.com/
+/wso112233.php 1 -
+/usr/local/etc/credentials.json 1 -
+/public_html/assets/js/jquery.flexslider-min.js 6 https://sama-garments.com/
+/etc/aws/credentials.conf 1 -
+/content../.git/config 2 -
+/staging/.git/config 2 -
+/shell20211028.php 1 -
+/public_html/assets/js/bootstrap.min.js 6 https://sama-garments.com/
+/public_html/assets/js/jquery.countTo.js 6 https://sama-garments.com/
+/assets/images/our-services/Salon.png 34 https://sama-garments.com/
+/wp-includes/block-supports/moon.php 1 -
+/img../.git/config 2 -
+/wp-content/plugins/constant-contact-forms/vendor/constantcontact/constantcontact/test/Json/Auth/token_info.json 1 -
+/live/.git/config 2 -
+/images../.git/config 2 -
+/wp-includes/widgets/moon.php 1 -
+/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance 1 -
+//wp-includes/wlwmanifest.xml 4 -
+/wp-add.php 1 sama-garments.com
+/etc/aws/credentials.ini 1 -
+/api/user/v2/.git/config 2 -
+/config/secrets/keys.json 1 -
+/api/v3/.git/config 2 -
+/.aws/config.ini 1 -
+/application/.git/config 2 -
+/wp.php 1 -
+/wp-includes/js/moon.php 1 -
+/wp-content/languages/moon.php 1 -
+/wp-admin/css/colors/coffee/moon.php 1 -
+/wp2/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/.aws/aws_secrets.txt 1 -
+/news/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/assets/images/banner/t.png 1 https://sama-garments.com/services
+/wp-admin/css/colors/blue/moon.php 1 -
+/wp-admin/css/colors/moon.php 1 -
+/wp-includes/blocks/table/int/tmpl/index.php 1 www.google.com
+/secrets.yml 1 -
+/xmrlpc.php 1 -
+/repos/.git/config 2 -
+/.aws/credentials.yaml 1 -
+/wp-sigunq.php 1 -
+/aws/config/app.config 1 -
+//site/wp-includes/wlwmanifest.xml 4 -
+/error-404.html 1 https://sama-garments.com/admin/project
+/api/v4/.git/config 2 -
+/test/.git/config 2 -
+/about.php 1 -
+/public_html/assets/js/jquery.magnific-popup.min.js 6 https://sama-garments.com/
+/config/aws/credentials.env 1 -
+/aws/config.json 1 -
+/shell.php 1 -
+/api/secrets.json 1 -
+/config/aws-credentials.yaml 1 -
+/credentials.json 1 -
+/aws/config/env.json 1 -
+/settings.py 1 -
+/redmine/config/secrets.yml 1 -
+/alfa-rex.php7 1 -
+/inputs.php 3 sama-garments.com
+/config/secrets/credentials.json 1 -
+/assets/js/jquery.min.map 17 -
+/config/aws-config.json 1 -
+/opt/data/config/db.ini 1 -
+/wp-admin/includes/moon.php 1 -
+/m/.git/config 2 -
+/blog/.git/config 2 -
+/wp-includes/js/.git/config 2 -
+/BDKR28.php 1 -
+/lib../.git/config 2 -
+/blog/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks.css 5 -
+/wp-content/.git/config 2 -
+/wp-includes/random_compat/moon.php 1 -
+/assets/other/service-account-credentials.json 1 -
+/api/keys.json 1 -
+/assets/js/main.js 32 https://sama-garments.com/
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/add-to-cart-form.css 5 -
+/usr/local/etc/aws/config.json 1 -
+/public_html/assets/css/flexslider.css 6 https://sama-garments.com/
+/public_html/assets/js/magnific-popup-options.js 6 https://sama-garments.com/
+/.well-known/moon.php 1 -
+/config/secrets.yml 1 -
+/config/firebase-credentials.json 1 -
+/updates.php 1 -
+/doc.php 1 -
+/shop/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/assets/css/animate.css 34 https://sama-garments.com/
+/config/secrets/config.json 1 -
+/log.php 1 -
+/wp-login.php 7 -
+/blog/wp-content/themes/.git/config 2 -
+/web/.git/config 2 -
+/configs.php 1 -
+/media../.git/config 2 -
+/.git 1 https://sama-garments.com/.git/
+/wp-content/plugins/core-plugin/include.php 6 -
+/api/config.json 1 -
+/aws/config/aws-credentials.json 1 -
+/aomanalyzer/.git/config 2 -
+/config/aws-credentials.ini 1 -
+/test/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/data/.git/config 2 -
+/aws/secrets.json 1 -
+/wp-includes/css/dist/block-library/style.min.css 5 -
+/resources/keys.json 1 -
+/wp-content/plugins/.git/config 2 -
+/wp-config.php 1 -
+/sitemap.xml 1 -
+/test.php 1 -
+/anjas.php 1 -
+/jenkins/secrets/master.key 1 -
+/.git/config 2 -
+/assets/js/jquery.countTo.js 32 https://sama-garments.com/
+/assets/js/jquery.waypoints.min.js 32 https://sama-garments.com/
+/resources/secrets.json 1 -
+/assets/images/main-slider/img10.jpg 34 https://sama-garments.com/
+/api/admin/v4/.git/config 2 -
+/wp-includes/Requests/moon.php 1 -
+/public_html/assets/images/logo.png 7 https://sama-garments.com/
+/api/v1/.git/config 2 -
+/wp-admin/admin-ajax.php 5 -
+/site/.git/config 2 -
+/blog.php 1 -
+/var/data/config.json 1 -
+/js../.git/config 2 -
+/assets/images/our-services/Hospital.png 34 https://sama-garments.com/
+/config/aws-credentials.json 1 -
+/wp-content/plugins/constant-contact-api-old/vendor/constantcontact/constantcontact/test/Json/Auth/token_info.json 1 -
+/samples/.git/config 2 -
+/config/env/aws_credentials.json 1 -
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/attribute-filter.css 4 -
+/assets/images/adv/1.png 34 https://sama-garments.com/
+/a/.git/config 2 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+//blog/wp-includes/wlwmanifest.xml 4 -
+/bypass.php 1 -
+/wp-includes/fonts/moon.php 1 -
+/wp-admin/css/colors/ectoplasm/moon.php 1 -
+/config/db.config 1 -
+/ae.php 1 -
+/public_html/assets/css/owl.theme.default.min.css 6 https://sama-garments.com/
+/app/config/aws-credentials.yml 1 -
+/assets/css/bootstrap.css 33 https://sama-garments.com/
+/magento/app/etc/env.php 1 -
+//xmlrpc.php 4 -
+/resources/credentials.json 1 -
+/wp-includes/assets/moon.php 1 -
+/wp-content/plugins/multiparcels-shipping-for-woocommerce/readme.txt 1 -
+/wp-includes/pomo/moon.php 1 -
+/assets/js/jquery.flexslider-min.js 32 https://sama-garments.com/
+/assets/assets/images/test.jpg 3 -
+/assets/images/main-slider/img2.jpg 34 https://sama-garments.com/
+/etc/aws-config/credentials.yml 1 -
+/aws/credentials.csv 1 -
+/ini.php 1 -
+/api/v2/.git/config 2 -
+/bak.php 1 -
+/plugins.php 1 -
+//website/wp-includes/wlwmanifest.xml 4 -
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/active-filters.css 5 -
+/etc/aws/credentials.yaml 1 -
+/bitnami/app/config/database.yml 1 -
+/aws/credentials.ini 1 -
+/assets/images/main-slider/img6.jpg 34 https://sama-garments.com/
+/css/bootstrap.css 2 -
+/magento/app/etc/config.php 1 -
+/assets/images/adv/3.png 34 https://sama-garments.com/
+/config/jwt/public.pem 1 -
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/breadcrumbs.css 4 -
+/__MACOSX/.git/config 2 -
+/wp-config.php.bak 1 -
+/vendor/.git/config 2 -
+/assets/images/adv/6.png 34 https://sama-garments.com/
+//media/wp-includes/wlwmanifest.xml 4 -
+/config/aws/keys.json 1 -
+/.aws/credentials 1 -
+/wp-activate.php 1 -
+/application.properties 1 -
+/opt/data/config/config.ini 1 -
+/cloud.php 1 -
+/z.php 1 -
+/view-source: 5 -
+/storage/assets/assets/images/test.jpg 1 -
+/humans.txt 1 http://sama-garments.com/humans.txt
+/wp-includes/theme-compat/moon.php 1 -
+/flock/.git/config 2 -
+/wp-includes/Text/moon.php 1 -
+/etc/credentials/aws.csv 1 -
+/lib/private/oauth/public.key 1 -
+/apple-touch-icon.png 2 -
+/dropdown.php 1 -
+/assets/js/jquery.stellar.min.js 32 https://sama-garments.com/
+/css/moon.php 1 -
+/administrator/index.php 5 -
+/wp-includes/rest-api/fields/cache/index.php 1 www.google.com
+/api/admin/v3/.git/config 2 -
+/api/user/v3/.git/config 2 -
+/app/config/aws-config.yml 1 -
+/wp-cron.php 1 -
+/assets/assets/css/bootstrap.css 1 -
+/lufix.php 1 -
+/wp-admin/css/colors/ocean/moon.php 1 -
+/wp-includes/php-compat/moon.php 1 -
+/aws/credentials.yaml 1 -
+/wp-includes/PHPMailer/moon.php 1 -
+//test/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/certificates/moon.php 1 -
+/2021/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/config/oauth/config.json 1 -
+/api/.git/config 2 -
+//web/wp-includes/wlwmanifest.xml 4 -
+/db/secrets/connection-string.txt 1 -
+/wp-conflg.php 1 -
+/css../.git/config 2 -
+/config/env.json 1 -
+/admin/.git/config 2 -
+/aws/config/db.config 1 -
+/config/database.yml 1 -
+/shop/.git/config 2 -
+/assets/css/style.css 33 https://sama-garments.com/
+/lib/private/oauth/private.key 1 -
+//news/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/sitemaps/moon.php 1 -
+/assets/images/our-services/sports.jpeg 34 https://sama-garments.com/
+//shop/wp-includes/wlwmanifest.xml 4 -
+/local/bin/credentials.json 1 -
+/config/jwt/private.pem 1 -
+/asset/css/bootstrap.css 1 -
+/v3/.git/config 2 -
+/style.php 1 www.google.com
+/wordpress 1 https://sama-garments.com/wordpress/
+/wp-includes/wlwmanifest.xml 6 -
+/assets/images/main-slider/img3.jpg 34 https://sama-garments.com/
+/makeasmtp.php 1 -
+/upfile.php 1 -
+/blog 1 https://sama-garments.com/blog/
+/config/credentials/aws_credentials.json 1 -
+/404.php 1 -
+/wp-2019.php 1 -
+/moon.php 2 -
+/cong.php 1 -
+/v1/.git/config 2 -
+/public/.git/config 2 -
+/assets/images/adv/falconcity.png 1 https://sama-garments.com/
+/assets/images/our-services/Construction.jpeg 34 https://sama-garments.com/
+/public_html/assets/js/jquery.waypoints.min.js 6 https://sama-garments.com/
+/awstats/data 1 -
+/config.php 1 -
+/Public/home/js/check.js 2 -
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/packages-style.css 5 -
+/amphtml/.git/config 2 -
+/wp-json/forminator/v1/preview/forms 1 -
+/wp-includes/customize/moon.php 1 -
+/store/.git/config 2 -
+/user/.git/config 2 -
+/wp-admin/images/.images.php 1 sama-garments.com
+/website/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/all-products.css 5 -
+/assets/images/about/1.jpg 34 https://sama-garments.com/
+/appsettings.json 1 -
+/wp-includes/block-patterns/moon.php 1 -
+/as.php 1 -
+/public_html/assets/css/animate.css 6 https://sama-garments.com/
+/wp-content/plugins/user-activity-log/readme.txt 1 -
+/assets/js/magnific-popup-options.js 32 https://sama-garments.com/
+/public_html/assets/fonts/flaticon/font/flaticon.css 6 https://sama-garments.com/
+/local/bin/config.json 1 -
+/about.php7 1 -
+/wp-content/languages/plugins/moon.php 1 -
+/static/admin/javascript/hetong.js 2 -
+/alpha/.git/config 2 -
+/app/.git/config 2 -
+/atomlib.php 1 -
+/assets/images/adv/5.png 34 https://sama-garments.com/
+/assets/images/about/pic1.jpg 3 https://sama-garments.com/assets/css/dashboard.css
+/mini.php 1 -
+/aws/credentials/config.yml 1 -
+/backup/.git/config 2 -
+/ 1 -
+/assets/js/jquery.magnific-popup.min.js 32 https://sama-garments.com/
+/public_html/assets/css/bootstrap.css 6 https://sama-garments.com/
+/repeater.php 1 -
+/assets/images/about/fabrics.png 34 https://sama-garments.com/
+/repository/.git/config 2 -
+/wiki/.git/config 2 -
+/misc/ajax.js 5 -
+/assets/css/custom.css 33 https://sama-garments.com/
+/wp-admin/css/colors/modern/moon.php 1 -
+/s3/.git/config 2 -
+/wp-includes/sodium_compat/moon.php 1 -
+/web.config 1 -
+/public/assets/images/adv/4.png 1 -
+/wp-admin/images/moon.php 1 -
+/v1/tasks 1 -
+/wp-content/plugins/woocommerce-payments/readme.txt 2 -
+/config/app.config 1 -
+/gateway/.git/config 2 -
+/apple-touch-icon-120x120.png 2 -
+//wp1/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/js/widgets/moon.php 1 -
+/assets/css/owl.theme.default.min.css 33 https://sama-garments.com/
+/wp-includes/css/moon.php 1 -
+/application.yml 1 -
+/usr/local/aws/credentials.json 1 -
+/public_html/assets/assets/images/test.jpg 2 -
+/old 1 https://sama-garments.com/old/
+/config/secrets/aws-credentials.json 1 -
+/wp/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/Dockerrun.aws.json 1 -
+/.aws/config 1 -
+/wp-content/moon.php 1 -
+/assets/js/jquery.easing.1.3.js 32 https://sama-garments.com/
+/public_html/assets/js/jquery.min.js 6 https://sama-garments.com/
+/assets/images/adv/naffco.png 1 https://sama-garments.com/
+/assets/images/main-slider/img1.jpg 34 https://sama-garments.com/
+/git/.git/config 2 -
+/public_html/assets/css/icomoon.css 6 https://sama-garments.com/
+/wp-content/plugins/moon.php 1 -
+/mail.php 1 -
+/wp-content/themes/.git/config 2 -
+/OLD 1 https://sama-garments.com/OLD/
+/common/.git/config 2 -
+/assets/js/owl.carousel.min.js 32 https://sama-garments.com/
+/public_html/assets/js/jquery.stellar.min.js 6 https://sama-garments.com/
+/.styleci.yml 1 -
+//2018/wp-includes/wlwmanifest.xml 4 -
+/service-account-credentials.json 1 -
+/public_html/assets/js/modernizr-2.6.2.min.js 6 https://sama-garments.com/
+/var/data/secrets.json 1 -
+/update 2 -
+/wp1/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/assets/js/bootstrap.min.js 32 https://sama-garments.com/
+/wp-admin/js/moon.php 1 -
+/2019/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/config/application.yml 1 -
+/radio.php 1 -
+/2020/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/beta/.git/config 2 -
+/config/secrets/aws-config.json 1 -
+/cms/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/static/.git/config 2 -
+/assets/images/about/LogoBranding.jpeg 34 https://sama-garments.com/
+/assets/css/icomoon.css 33 https://sama-garments.com/
+/v1/metadata 1 -
+/assets/fonts/flaticon/font/flaticon.css 33 https://sama-garments.com/
+/ws.php 1 -
+/public_html/asset/css/bootstrap.css 2 -
+/config/secrets/aws-keys.json 1 -
+/public_html/assets/js/main.js 6 https://sama-garments.com/
+/web/wp-includes/wlwmanifest.xml 1 sama-garments.com
+/var/private/secrets.ini 1 -
+/etc/aws-credentials.json 1 -
+/assets/credentials.json 1 -
+/public_html/assets/js/jquery.easing.1.3.js 6 https://sama-garments.com/
+/2022/wp-includes/wlwmanifest.xml 1 sama-garments.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 123
+51.158.234.221 51 143 11361622 20230912095415
+59.90.10.109 35 103 6971568 20230911022302
+51.15.48.52 21 104 1908553 20230914122158
+5.192.164.203 21 69 495530 20230913031251
+5.192.165.172 17 65 6304967 20230911022743
+223.228.191.104 16 110 6755456 20230912100236
+27.61.2.163 13 13 2980 20230910122753
+27.63.235.216 12 107 5084632 20230914205310
+106.200.44.133 11 99 11048440 20230914021817
+92.96.210.233 11 221 24911404 20230916025422 20230916012052 /assets/fonts/icomoon/icomoon.ttf
+106.200.77.171 11 79 5342352 20230914230838
+31.215.243.56 11 125 11560082 20230913034044
+86.99.125.155 10 90 4457096 20230913221831
+137.97.119.24 9 54 6091995 20230913094215
+106.206.219.72 9 60 4742699 20230914121902
+137.97.124.128 9 53 262109 20230912095205
+5.192.166.231 8 56 280838 20230914233512
+122.166.24.15 8 65 6158764 20230913221421
+68.178.153.6 8 8 20244 20230909214246
+194.147.6.29 6 6 30552 20230915223043
+96.9.249.44 6 95 11123991 20230913115828
+128.199.31.216 6 6 5826 20230914163557
+106.200.91.88 6 81 10424552 20230913080415
+86.96.44.161 6 97 13258152 20230911025032
+106.200.77.160 5 26 5049811 20230913110142
+167.71.164.52 1 1 3137 20230915124558
+198.52.123.239 1 1 40756 20230914092823
+135.148.195.13 1 1 7533 20230914212235
+46.228.199.158 1 1 7273 20230914032533
+38.180.74.232 1 1 7266 20230912063114
+104.196.35.160 2 2 81512 20230912223628
+35.86.78.57 0 2 8230 
+142.93.77.90 1 1 7565 20230915120932
+199.244.88.228 1 1 7565 20230915062938
+5.181.234.134 4 14 121239 20230912042627
+54.188.123.78 0 1 1988 
+104.248.45.86 1 1 7565 20230915065725
+208.80.194.42 1 1 40756 20230914111525
+34.74.209.182 2 2 81512 20230913214014
+35.92.168.249 1 1 7565 20230915032220
+42.104.120.136 2 26 491586 20230913220853
+167.94.145.54 1 1 7541 20230914194326
+167.248.133.183 1 1 7273 20230913180515
+20.125.149.109 1 1 971 20230913051459
+182.44.67.97 1 1 7273 20230913173232
+51.254.49.110 1 1 40741 20230911142951
+167.94.145.52 1 1 7565 20230915082133
+188.165.87.111 2 2 81582 20230911122615
+14.29.181.90 1 1 7266 20230912072625
+37.187.215.243 1 1 40841 20230911141356
+135.148.195.6 1 1 7266 20230911211320
+34.75.227.3 2 2 84540 20230915001831
+52.37.31.109 0 1 2004 
+143.110.222.19 1 1 7281 20230912130420
+51.75.133.70 1 1 971 20230912155750
+52.24.161.36 1 1 7565 20230915053823
+137.97.110.59 3 53 8309691 20230911075404
+106.200.2.163 2 2 458 20230910122722
+31.218.38.167 1 1 6788 20230910224506
+37.187.215.255 1 1 40741 20230911141325
+198.235.24.217 1 1 42374 20230915210849
+192.36.109.125 1 1 7565 20230915012214
+159.89.169.252 1 1 10122 20230909121408
+27.63.203.202 1 1 2814 20230915223823
+152.39.171.140 3 47 5516913 20230913120016
+162.43.239.254 3 47 5516909 20230911113023
+168.151.104.231 2 39 2003666 20230911113112
+138.197.25.74 1 1 40741 20230911125622
+138.197.28.155 1 1 2996 20230915222906
+14.29.206.197 1 1 7266 20230911210530
+206.66.96.159 3 47 5178683 20230915042846
+198.235.24.206 1 1 42270 20230916033430 20230916033430 /
+52.33.171.185 0 1 6418 
+135.148.195.10 0 1 90151 
+35.165.190.0 0 1 6244 
+51.254.49.101 1 1 40841 20230911142956
+167.71.101.140 1 1 7273 20230913125356
+116.50.58.140 1 1 7317 20230910231035
+34.216.21.219 0 2 6100 
+35.91.129.244 0 1 1128 
+171.67.70.233 2 2 14541 20230911040557
+182.40.104.255 1 1 7273 20230912113616
+205.210.31.75 1 1 40741 20230912000650
+198.235.24.168 1 1 51448 20230909083400
+96.9.249.40 4 14 121237 20230915042836
+94.247.172.129 1 1 7281 20230913085425
+34.150.239.40 2 2 81482 20230911225915
+106.200.91.87 2 2 2464 20230911110709
+51.254.49.98 1 1 40741 20230911184653
+2.48.204.17 1 1 6747 20230912082009
+193.107.90.252 1 1 40756 20230914092408
+27.61.47.37 1 2 2195727 20230913215141
+167.248.133.39 1 1 7281 20230914085139
+92.205.16.145 1 1 40756 20230914092442
+167.94.145.59 1 1 7533 20230914140811
+52.25.232.191 0 1 10522 
+206.189.225.178 1 1 7281 20230912113321
+143.198.84.201 1 1 7273 20230914105704
+106.200.47.146 3 3 20367 20230910233038
+27.61.47.13 1 1 6754 20230914021824
+164.132.59.194 1 1 7317 20230910233629
+89.22.101.69 1 1 7565 20230915013041
+208.80.194.41 1 1 40741 20230912082040
+54.213.220.30 0 1 9745 
+146.190.134.130 1 1 5322 20230914191759
+15.204.194.30 0 1 90151 
+206.204.57.245 3 47 5516913 20230913121436
+34.220.156.143 1 1 10122 20230909053455
+54.191.204.79 1 1 7565 20230915053912
+34.219.112.58 0 1 29556 
+149.100.154.15 1 1 971 20230912154422
+54.156.251.192 3 3 124122 20230915042948
+162.142.125.11 1 1 7565 20230914231809
+167.94.146.52 1 1 7573 20230915144950
+118.69.174.70 1 1 40756 20230914092853
+51.254.199.11 1 1 7273 20230913114438
+34.222.78.207 1 1 7266 20230912051502
+15.204.182.106 2 2 14541 20230911194827
+87.236.176.133 1 1 7571 20230916015641
+27.61.44.170 5 50 6063463 20230911022902
+183.129.153.157 1 1 7275 20230911145801
+94.176.51.249 3 47 5516913 20230913114530
+159.89.185.9 1 1 7266 20230911134813
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20230909 11 11 91936 8
+20230910 62 106 5808747 8
+20230911 101 533 51622040 24
+20230912 62 377 28491946 21
+20230913 83 646 62149268 24
+20230914 87 477 23247661 25
+20230915 32 144 10900603 20
+20230916 11 175 19726968 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 4
+2mn-5mn 7
+0s-30s 99
+15mn-30mn 9
+30mn-1h 5
+1h+ 3
+5mn-15mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/ 241 2555131 109 85
+/assets/fonts/icomoon/icomoon.ttf 42 3742275 1 12
+/assets/fonts/flaticon/font/Flaticon.woff 26 119964 0 4
+/about 24 117517 2 2
+/contact 22 76474 1 3
+/projects 20 53219 3 2
+/services 19 53227 1 4
+/admin/login 7 18209 3 2
+/.env 7 6797 4 4
+/assets/css/bootstrap.css.map 5 88135 0 1
+/admin/project 5 12778 0 0
+/wp-cron.php 5 0 3 3
+/admin/home 3 6990 0 0
+/admin/project/create 3 8343 0 0
+/assets/vendors/fontawesome/fonts/fontawesome-webfont3e6e.woff2 2 154330 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44590 0 2
+/assets/vendors/themify/fonts/themify9f24.woff 2 66660 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45042 0 0
+/autodiscover/autodiscover.xml 2 2464 1 1
+//.env 2 1942 2 2
+/index.php 2 48058 2 2
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45552 0 0
+/admin/message 1 2856 0 0
+/_ignition/health-check 1 33 1 0
+/admin/message/export 1 5606 0 1
+/wp-admin/admin-ajax.php 1 0 0 1
+END_SIDER
